@@ -27,6 +27,7 @@ Browser Networking](https://hpbn.co/)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=%23ffffff)
 
 ## Technology Stack
+![Vue](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%233178C6?style=flat&logo=typescript&logoColor=%23ffffff)
 ![Node.js](https://img.shields.io/badge/-Node.js-%23333333?style=flat&logo=node.js)
 
