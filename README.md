@@ -39,3 +39,5 @@ Browser Networking](https://hpbn.co/)
 ## Github Stats
 [![kyle1an's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyle1an&count_private=true&show_icons=true&theme=react&v=2)
 ](https://github.com/anuraghazra/github-readme-stats)
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kyle1an&" alt="kyle1an" />
