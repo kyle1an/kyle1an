@@ -33,5 +33,5 @@ Browser Networking](https://hpbn.co/)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 
-[![kyle1an's GitHub stats](https://github-readme-stats-ryolee.vercel.app/api?username=kyle1an&line_height=24.5&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-ryolee.vercel.app/api/top-langs/?username=kyle1an&layout=compact&langs_count=8&hide_border=true&card_width=256&hide=css,stylus,HTML,handlebars,Procfile&exclude_repo=cust-fonts)](https://github.com/anuraghazra/github-readme-stats)
+![kyle1an's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyle1an&line_height=24.5&show_icons=true&hide_border=true&hide_title=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyle1an&layout=compact&langs_count=8&hide_border=true&card_width=256&hide=css,stylus,HTML,handlebars,Procfile&exclude_repo=cust-fonts)](https://github.com/anuraghazra/github-readme-stats)
